@@ -1,6 +1,6 @@
 # Foundations of HPC, 2019/2020
 
-**ATTENTION**: This repo was a forked from [this](https://github.com/sissa/FHPC_2019-2020) repo, so all information here provided are owned by the [SISSA/FHPC](https://github.com/sissa) course.
+**ATTENTION**: This repo was a forked version of [this](https://github.com/sissa/FHPC_2019-2020) repo, so all information here provided are owned by the [SISSA/FHPC](https://github.com/sissa) course.
 
 ## -- DSSC -- Data Science and Scientific Computing --
 
